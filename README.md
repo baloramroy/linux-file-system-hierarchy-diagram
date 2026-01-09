@@ -12,7 +12,6 @@ Below is the complete standard set of Linux directories and what each one is use
 | /bin       | Essential binaries            |
 | /sbin      | Essential system binaries     |
 | /usr       | User applications             |
-| /usr/local | Locally installed apps        |
 | /etc       | Configuration files           |
 | /var       | Variable data                 |
 | /tmp       | Temporary files               |
